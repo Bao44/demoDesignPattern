@@ -6,7 +6,7 @@
 
 |     Họ và Tên     |   MSSV   | Lớp học phần | Nhóm học phần  |
 |  ---------------  | -------- | ------------ | -------------  |
-|  Trương Quốc Bảo  | 21017351 |   DHKTPM17A  | T3_T10-12 |
+|  Trương Quốc Bảo  | 21017351 |   DHKTPM17C  | N1 T3_T10-12 |
 
 [Link Github][1]
 
